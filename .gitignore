@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 VOCdevkit
 VOCtrainval_11-May-2012.tar
+des_array.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
