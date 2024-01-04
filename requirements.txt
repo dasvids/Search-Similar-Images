@@ -1,0 +1,9 @@
+streamlit
+numpy
+joblib
+pandas
+scikit-learn
+ftfy 
+regex 
+tqdm
+PIL
